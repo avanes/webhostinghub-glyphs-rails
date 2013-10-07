@@ -9,7 +9,7 @@ webhostinghub-glyphs-rails provides the [webhostinghub-glyphs](http://www.webhos
 Gemfile:
 
 ```ruby
-gem "webhostinghub-glyphs-rails", :git => 'avanes/webhostinghub-glyphs-rails'
+gem "webhostinghub-glyphs-rails", :github => 'avanes/webhostinghub-glyphs-rails'
 ```
 
 and run `bundle install`.
